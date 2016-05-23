@@ -1,0 +1,36 @@
+redhat_packages:
+
+  - lynx
+  - mariadb-server
+  - mariadb
+  - php
+  - php-mysql
+  - php-mbstring
+  - php-xml
+  - tftp-server
+  - httpd
+  - ncurses-devel
+  - sendmail
+  - sendmail-cf
+  - sox
+  - newt-devel
+  - libxml2-devel
+  - libtiff-devel
+  - audiofile-devel
+  - gtk2-devel
+  - subversion
+  - kernel-devel
+  - git
+  - php-process
+  - crontabs
+  - cronie
+  - cronie-anacron
+  - wget
+  - vim
+  - uuid-devel
+  - sqlite-devel
+  - net-tools
+  - gnutls-devel
+  - php-pear
+  - unixODBC
+  - mysql-connector-odbc
